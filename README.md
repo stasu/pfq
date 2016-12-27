@@ -1,2 +1,2 @@
 # ppfq
-pipelined processing with FIFO queue to solve concurrency problems( some of them)
+PIPELINED processing with FIFO QUEUE to solve concurrency problems( some of them)
